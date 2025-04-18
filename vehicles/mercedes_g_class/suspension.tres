@@ -1,9 +1,0 @@
-[gd_resource type="Resource" script_class="Suspension" load_steps=2 format=3 uid="uid://bjbidt2pvfu8l"]
-
-[ext_resource type="Script" path="res://suspension.gd" id="1_a2h3e"]
-
-[resource]
-script = ExtResource("1_a2h3e")
-rest_length = 0.2
-stiffness = 70000.0
-damping = 6000.0
